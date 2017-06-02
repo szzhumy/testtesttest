@@ -1,0 +1,17 @@
+Packing List Web Application Description
+
+1. What it is?
+It is a website where a user can get suggested travel packing lists, which are created base on user’s preference. Users are able to create an account and save their travel packing lists for future usage. Users are also able to send their lists to their emails.
+
+2. How does it work?
+User login to their account and answer questions about their trip. 
+
+First time users need to answer about their personal information for once and update as request. Information includes name, gender, has pet or not, 
+
+Existing user need to answer question about their trip, including destination, date to travel, type of trip(business/leisure/both), activities, transportation type
+
+3. What information is needed?
+Email, password, name, gender(3), has pet or not, business trip/leisure trip/both, trip with family/friends/pet/along,  , destination, domestic, international, weather, activities(water, hiking, camping), date of trip, transportation type(flight/car)
+
+4. What are the objects for design a database schema to store all these information?
+email, password, username, gender, ownPet, tripType, tripCompanion, destinationId, date, transportationType, placeAddress, month, temperature, rainPercentage, waterActivity, hiking, camping, 
